@@ -43,5 +43,5 @@ out/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**
 !**/src/test/**
-!app-ibank.jar
-!app-replan-delivery.jar
+!app-ibank-build-for-testers.jar
+/.idea/
